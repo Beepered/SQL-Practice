@@ -25,11 +25,11 @@ I was able to understand how SQL is used in a more real-world sense. Find the [S
 
 1. What are the top-paying "Engineer" jobs?
 
-   ![Image of top paying jobs](assets\1_top_paying.png)
+   ![Image of top paying jobs](assets/1_top_paying.png)
 
 2. What skills are required for top paying "Engineer" roles?
 
-   ![Image of top paying Engineer skills](assets\2_top_paying_Engineer_skills.png)
+   ![Image of top paying Engineer skills](assets/2_top_paying_Engineer_skills.png)
 
 3. What are the most in-demand skills?
 
@@ -45,15 +45,15 @@ ORDER BY demand_count DESC
 LIMIT 10;
 ```
 
-![Image of in-demand skills](assets\3_popular_skills.png)
+![Image of in-demand skills](assets/3_popular_skills.png)
 
 4. What are the top-skills based on salary?
 
-   ![Image of top paying skills](assets\4_top_paying_skills.png)
+   ![Image of top paying skills](assets/4_top_paying_skills.png)
 
 5. What are the most optimal skills (high-demand & salary)?
 
-   ![Image of most optimal skills](assets\5_optimal_skills.png)
+   ![Image of most optimal skills](assets/5_optimal_skills.png)
 
 ## What I Learned
 
