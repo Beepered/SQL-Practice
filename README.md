@@ -18,8 +18,6 @@ I was able to understand how SQL is used in a more real-world sense. Find the [S
 
 1. **SQL**: The main goal
 2. **PostgreSQL**: Database management system
-3. **VSCode**: Much prefered over Visual Studio
-4. **Git/Github**: What other system do you expect?
 
 ## Questions answered
 
